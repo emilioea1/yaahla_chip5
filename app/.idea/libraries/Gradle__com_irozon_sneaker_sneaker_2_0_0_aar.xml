@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.irozon.sneaker:sneaker:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f70d2f1c31ae76f26c265950981a13b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1f70d2f1c31ae76f26c265950981a13b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.irozon.sneaker/sneaker/2.0.0/9c9e7e694789bb562d0eff57da6135a2ef928405/sneaker-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

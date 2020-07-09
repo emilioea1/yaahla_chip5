@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Sell"
+        android:icon="@drawable/sell"
+        android:title="Sell" />
+    <item
+        android:id="@+id/Collect"
+        android:icon="@drawable/collect"
+        android:title="Collect" />
+
+</menu>

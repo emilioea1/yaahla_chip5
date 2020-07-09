@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="appColor">#154761</color>
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#484848</color>
+
+    <color name="lightestGray">#9C9C9C</color>
+
+    <color name="darkestGray">#333433</color>
+    <color name="gray">#6D727C</color>
+    <color name="cardColor">#15242F</color>
+
+    <color name="lightGray">#B0CFD8DC</color>
+    <color name="gray_text">#4A4A4B</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="touch_effect">#9ccc</color>
+
+    <color name="material_animations_primary">#039BE5</color>
+    <color name="material_animations_primary_dark">#0277BD</color>
+    <color name="material_animations_blank">#424242</color>
+    <color name="material_animations_accent">#3F51B5</color>
+
+    <color name="text_light">@android:color/white</color>
+    <color name="text_dark">#616161</color>
+
+    <color name="sample_red">#ff4444</color>
+    <color name="sample_blue">#33b5e5</color>
+    <color name="sample_green">#669900</color>
+    <color name="sample_yellow">#ff8800</color>
+
+
+    <!-- theme colors -->
+    <color name="theme_blue_background">#84ffff</color>
+    <color name="theme_blue_primary">#4FC3F7</color>
+    <color name="theme_blue_accent">#ff193a</color>
+    <color name="theme_blue_text">@color/text_dark</color>
+    <color name="theme_blue_text_inverse">@android:color/black</color>
+    <color name="theme_blue_primary_dark">#039BE5</color>
+
+    <color name="theme_green_background">#b9f6ca</color>
+    <color name="theme_green_primary">#669900</color>
+    <color name="theme_green_accent">#e919ff</color>
+    <color name="theme_green_text">@color/text_dark</color>
+    <color name="theme_green_primary_dark">#558B2F</color>
+
+    <color name="theme_purple_background">#b388ff</color>
+    <color name="theme_purple_primary">#7e57c2</color>
+    <color name="theme_purple_accent">#ff9419</color>
+    <color name="theme_purple_text">@color/text_light</color>
+    <color name="theme_purple_primary_dark">#6c4aa6</color>
+
+    <color name="theme_red_background">#ff8a80</color>
+    <color name="theme_red_primary">#ff5252</color>
+    <color name="theme_red_accent">#fffc19</color>
+    <color name="theme_red_text">@color/text_light</color>
+    <color name="theme_red_primary_dark">#e64a4a</color>
+
+    <color name="theme_yellow_background">#ffff8d</color>
+    <color name="theme_yellow_primary">#ff8800</color>
+    <color name="theme_yellow_accent">#19dcff</color>
+    <color name="theme_yellow_text">@color/text_dark</color>
+    <color name="theme_yellow_primary_dark">#EF6C00</color>
+
+    <color name="green">#00e676</color>
+    <color name="red">#ff5252</color>
+    <color name="light_grey">#E0E0E0</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!--new main colors-->
+    <color name="main_background">#154761</color>
+    <color name="main_button_color">#0F3346</color>
+    <color name="pure_black">#000000</color>
+
+    <color name="fuel_red">#FFD35140</color>
+    <color name="valet_yellow">#FFEEB743</color>
+    <color name="electric_green">#FF589745</color>
+    <color name="self_blue">#FF6F77AC</color>
+
+    <color name="trans">#00FFFFFF</color>
+    <color name="fuel_red_trans">#FFD35140</color>
+    <color name="valet_yellow_trans">#FFEEB743</color>
+    <color name="electric_green_trans">#FF589745</color>
+    <color name="self_blue_trans">#FF6F77AC</color>
+
+    <color name="trans_extra">#209727B0</color>
+    <color name="fuel_red_extra_trans">#23D35140</color>
+    <color name="valet_yellow_extra_trans">#25EEB743</color>
+    <color name="electric_green_extra_trans">#2A589745</color>
+    <color name="self_blue_extra_trans">#2C6F77AC</color>
+    <color name="exception_tint">#dddddd</color>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://193.227.182.203:9101/api/</domain>
+        <domain includeSubdomains="true">http://193.227.182.203:9101/</domain>
+        <domain includeSubdomains="true">193.227.182.203</domain>
+        <domain includeSubdomains="true">http://guardpro.mobile.api.chip.com.lb:8084/</domain>
+    </domain-config>
+</network-security-config>

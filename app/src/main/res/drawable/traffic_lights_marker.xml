@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="42dp" android:height="42dp"
+        android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="#40818181"/>
+            <size android:height="60px" android:width="60px"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/marker_colored_dots"
+        android:gravity="center" android:right="2dp">
+
+    </item>
+</layer-list>

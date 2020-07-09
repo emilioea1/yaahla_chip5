@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180606207246",
+    "firebase_url": "https://parkpro-554ca.firebaseio.com",
+    "project_id": "parkpro-554ca",
+    "storage_bucket": "parkpro-554ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180606207246:android:349e1e4954460257",
+        "android_client_info": {
+          "package_name": "com.chip.parkpro1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180606207246-ljg9mqjg6onuntdr4npgdgt7i5imkc4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chip.parkpro",
+            "certificate_hash": "f41f4c5b8ed01accf035bff95125b2c6ba233fb7"
+          }
+        },
+        {
+          "client_id": "180606207246-q0iskfcudv5dhptprjk13a2ojb0kan03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlknNXRyirTMy-AoUz2qRoYEnOgoVv0eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180606207246-q0iskfcudv5dhptprjk13a2ojb0kan03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "180606207246-2n3ct8g9pjjpsu3f6dnigj0v9briv69p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chip.ParkPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

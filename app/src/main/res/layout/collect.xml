@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+
+    <LinearLayout
+        android:id="@+id/ln1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+
+        <EditText
+            android:id="@+id/scan_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:background="@drawable/round_edit_text"
+            android:hint="Fine ID"
+            android:paddingStart="16dp"
+            android:paddingTop="10dp"
+            android:paddingEnd="16dp"
+            android:paddingBottom="12dp"
+            android:singleLine="true"
+            android:textColor="@color/pure_black"
+            android:textSize="17sp" />
+
+
+        <Button
+            android:id="@+id/scan_button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/barcode" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/Collect"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ln1"
+        android:layout_gravity="right"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/done_button_background"
+        android:text="Check"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/edit_view_line_top"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@color/pure_black" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal"
+            android:text=""
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:textColor="#FF0000"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        >
+
+    <Button
+        android:layout_gravity="bottom"
+        android:id="@+id/clear"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cancel_button_background"
+        android:text="Clear"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        android:textColor="#000"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+        <View
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+
+        <Button
+            android:id="@+id/issue"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/done_button_background"
+            android:text="Collect"
+            android:layout_gravity="bottom"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="no_internet">Check your internet connection!</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="get_sites">Getting sites...</string>
+    <string name="fill_fields">Please fill all the fields</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="save">Save</string>
+
+    <!--region "Toolbar Titles"-->
+    <string name="action_allSites">All Sites</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="validate_pin">Validate Pin</string>
+    <string name="create_password">Create Password</string>
+    <string name="new_password">New Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change password</string>
+    <string name="change_mobile">Change Mobile</string>
+    <string name="home">Home</string>
+    <string name="add_card">Add Card</string>
+    <string name="history">History</string>
+    <!--endregion-->
+
+    <!--region "Drawer Menu"-->
+    <string name="edit_account">Edit account</string>
+    <string name="scan_code">Scan Code</string>
+    <string name="become_member">Become a member</string>
+    <string name="about_us">About us</string>
+    <string name="cars">Your Cars</string>
+    <string name="help">Help</string>
+    <string name="logout"><font fgcolor='#cc0000'>Logout</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="balance">balance: $ 0</string>
+    <!--endregion-->
+
+    <!--region "SplashActivity"-->
+    <string name="company_name">Creative Hardware For Integrated Products</string>
+    <!--endregion-->
+
+    <!--region "CheckMobile"-->
+    <string name="mobile">Mobile</string>
+    <string name="verify">Verify</string>
+    <string name="enter_mobile_number">Please enter your mobile number</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="is_your_phone_number">is your phone number</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="enter_password">Please enter your password</string>
+    <string name="are_you_sure_reset_password">Are you sure you want to reset your password?</string>
+    <string name="reset_password">Reset password</string>
+    <!--endregion-->
+
+    <!--region "ValidatePin"-->
+    <string name="validate">Validate</string>
+    <string name="fill_code">Please enter the code received by sms!</string>
+    <string name="resend_pin">Re-send pin</string>
+    <string name="invalid_pin">Your pin is invalid</string>
+    <!--endregion-->
+
+    <!--region "Sign Up"-->
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Next">Next</string>
+    <string name="password_confirm">Password do not match</string>
+    <string name="short_password">Password should be at least 6 characters</string>
+    <string name="quit">Are you sure you want to quit? All changes will be lost"</string>
+    <string name="create">Create</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="valid_email">Please enter a valid email</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <!--endregion-->
+
+    <!--region "HomeFragment"-->
+    <string name="search_hint">Type place name, city</string>
+    <string name="enable_permission">Please go to settings and enable permission</string>
+    <!--endregion-->
+
+    <!--region "EditAccount"-->
+    <string name="basic">Basic</string>
+    <string name="Mobile">Mobile</string>
+    <string name="security">Security</string>
+    <string name="credit">Credit</string>
+    <string name="current_number">current number</string>
+    <string name="verifying">Verifying...</string>
+    <string name="incorrect_credentials">Incorrect mobile or password</string>
+    <string name="new_mobile">new mobile</string>
+    <string name="continuee">Continue</string>
+    <string name="change">Change</string>
+    <string name="old_password">Old Password</string>
+    <string name="remaining_balance">Remaining balance</string>
+    <string name="default_payment">Default payment</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="added_so_far">0 added so far</string>
+    <string name="password_changed">Password has been successfully changed</string>
+    <string name="added_card">Cart has been successfully added</string>
+    <string name="mobile_changed">Mobile has been successfully changed</string>
+    <string name="update_profile_successful">Profile info has been successfully changed</string>
+    <string name="visa_number">XXXX XXXX XXXX XXXX</string>
+    <string name="visa">XXXX</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="cvv">CVV</string>
+    <string name="expiry_month">MM</string>
+    <string name="expiry_year">YY</string>
+    <string name="validate_card">Validating card...</string>
+    <string name="invalid_date">Please enter a valid date</string>
+    <string name="invalid_card">Invalid card</string>
+    <!--endregion-->
+
+    <!--OrderHistoryFragment-->
+    <string name="cancel_order">Cancel Order</string>
+    <!--endregion-->
+
+    <!--BottomSheet-->
+    <string name="availability">Availability</string>
+    <string name="self_park">Self Parking</string>
+    <string name="valet_park">Valet Parking</string>
+    <string name="choose_a_duration">Choose a duration</string>
+    <string name="lower_confirm">Confirm</string>
+    <string name="book">Book</string>
+    <string name="rule1">Price does not include additional time spent on site (after</string>
+    <string name="rule2">Additional time will be charged on your way out</string>
+    <string name="add_to_calendar">Do you want to add this order to your calendar ?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_car">Your Car(s)</string>
+    <string name="charge_car">Charge Your Car</string>
+    <!--endregion-->
+
+
+    <string name="purchase">Purchase</string>
+    <string name="valid">Form is valid</string>
+    <string name="invalid">Form is invalid</string>
+    <string name="light_theme_form">Light Theme</string>
+    <string name="dark_theme_form">Dark Theme</string>
+    <string name="scan_with_card_io">Scan with card.io</string>
+
+    <string name="payment_method">Payment Method</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="error_network_timeout">Network Time Out… </string>
+    <string name="title_location_permission">Location Permission</string>
+    <string name="text_location_permission">We need to get your location</string>
+    <string name="ok">Allow</string>
+
+    <string name="title_activity_intro_full">Park Pro</string>
+    <string name="scan">Scan</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">PARK\nPRO</string>
+    <string name="msg_subscribed">Subscribed to %s topic</string>
+    <string name="msg_unsubscribed">UnSubscribed from %s topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to %s topic</string>
+    <string name="msg_unsubscribe_failed">Failed to unsubscribe from %s topic</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">YA AHLA</string>
+    <string name="default_notification_channel_name" translatable="true">ParkPro</string>
+    <string name="title_activity_test">testActivity</string>
+    <string name="navigation_money">Payments</string>
+    <string name="title_dashboard">Home</string>
+    <string name="navigation_history_title">History</string>
+    <string name="title_activity_sign_up_tabbed">SignUpTabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="err_mobile_required">The mobile field is required.</string>
+    <string name="err_name">The name field is required.</string>
+    <string name="err_last_name">The last name field is required.</string>
+    <string name="err_email">The email must be a valid email address.</string>
+    <string name="err_email_required">The email field is required.</string>
+    <string name="err_password_required">The password field is required.</string>
+    <string name="err_password">The password must be at least 6 characters.</string>
+    <string name="err_make">The make field is required.</string>
+    <string name="err_model">The model field is required.</string>
+    <string name="err_color">The color field is required.</string>
+    <string name="err_plate_number">The plate number field is required.</string>
+    <string name="status_image">Status Image</string>
+    <string name="error_sorry_not_able_to_load">Sorry we weren\\\'t able to load</string>
+    <string name="oh_no">Oh no!</string>
+    <string name="no_internet_connection">No Internet found. Check your connection</string>
+    <string name="or_try_again">or try again</string>
+
+    <integer-array name="img_id">
+        <item>@drawable/ic_star_border_black_24dp</item>
+        <item>@drawable/ic_settings_black_24dp</item>
+        <item>@drawable/ic_cancel_black_24dp</item>
+    </integer-array>
+    <string name="title_activity_collect_fine">CollectFine</string>
+
+</resources>
